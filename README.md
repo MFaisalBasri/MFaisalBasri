@@ -1,7 +1,7 @@
 # Halo semua! 
 Perkenalkan nama saya **M Faisal Basri**.\
 Saya seorang **Web Developer** di [Mikucode](https://www.mikucode.com/).\
-Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](www.linkedin.com/in/m-faisal-basri/) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/m-faisal-basri/) ku ya.
  
 <p align="left">
 <a href="https://github.com/MFaisalBasri">
